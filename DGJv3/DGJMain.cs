@@ -28,6 +28,7 @@ namespace DGJv3
             PluginDesc = "使用弹幕点播歌曲";
             PluginAuth = "Genteure";
             PluginCont = "dgj3@genteure.com";
+            Start();
 
             try
             {
