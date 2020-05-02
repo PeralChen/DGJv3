@@ -116,8 +116,8 @@ namespace DGJv3
 
             switch (commands[0])
             {
-                case "我爱柿子":
-                case "我愛柿子":
+                case "点歌":
+                case "點歌":
                     {
                         DanmuAddSong(danmakuModel, rest);
                     }
